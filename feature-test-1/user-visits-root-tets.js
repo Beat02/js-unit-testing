@@ -5,6 +5,7 @@ const { assert } = require('chai');
 describe('User visits root', () => {
     // ‘root’, refers to our application’s entry point
     describe('without existing messages', () => {
+        // add an it block to describe the behavior we want to test in our app:
 
     });
 });
